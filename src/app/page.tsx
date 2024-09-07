@@ -1,8 +1,5 @@
 import { Box, Checkbox, FormControlLabel, FormGroup, Grid2, TextField } from "@mui/material";
-import Image from "next/image";
-import { useState } from "react";
 
-const label = { inputProps: { 'aria-label': 'Checkbox demo' } };
 export default function Home() {
 
 
