@@ -14,12 +14,17 @@
     "@mui/icons-material": "^6.0.2",
     "@mui/material": "^6.0.2",
     "@mui/styled-engine-sc": "^6.0.2",
+    "exceljs": "^4.4.0",
+    "file-saver": "^2.0.5",
+    "html2pdf.js": "^0.9.0",
     "next": "14.2.8",
+    "puppeteer": "^23.3.0",
     "react": "^18",
     "react-dom": "^18",
     "styled-components": "^6.1.13"
   },
   "devDependencies": {
+    "@types/file-saver": "^2.0.7",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
